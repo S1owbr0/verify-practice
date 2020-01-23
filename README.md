@@ -1,1 +1,7 @@
 # verify-practice
+
+## 1. LeetCode 练习    
+在[leetcode](leetcode)目录下以LeetCode题目编号作为文件夹名称。
+
+## 2. React 练习    
+在[react](react)目录下添加react练习代码。
